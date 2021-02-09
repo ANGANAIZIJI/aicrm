@@ -1,0 +1,9 @@
+@import './variables.scss';
+@import './mixin.scss';
+@import './progress-bar.scss';
+
+html,
+body .app {
+  font-family: Arial, Helvetica, 'STHeiti STXihei', 'Microsoft YaHei', Tohoma, sans-serif;
+  background-color: $background-color;
+}

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2374e6"],{fb0d:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"wrap"})},r=[],s={name:"CommodityChart",data:function(){return{}},methods:{}},c=s,o=n("2877"),u=Object(o["a"])(c,a,r,!1,null,"e0f26706",null);e["default"]=u.exports}}]);
